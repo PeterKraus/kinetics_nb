@@ -1,0 +1,7 @@
+name: kinetics_nb
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - appmode
+  - pandas
