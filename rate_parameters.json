@@ -6,52 +6,27 @@
         "x": 1,
         "y": 1,
         "z": 0,
-        "k": 2.1,
-        "error": {
-            "random": 0.03,
-            "systematic": 0.0
-        }
+        "k": 2.1
     },
     "kin2": {
         "[A]": 0.1,
-        "time": 0.001,
-        "k": 2.1,
-        "error": {
-            "random": 0.03,
-            "systematic": 0.0
-        }
+        "k": 2.1
     },
     "kin3": {
-        "time": 0.001,
-        "k": 0.0051,
-        "error": {
-            "random": 0.03,
-            "systematic": 0.0
-        }
+        "k": 0.0051
     },
     "kin4": {
-        "time": 0.1,
-        "k": 1.67e-3,
-        "error": {
-            "random": 0.03,
-            "systematic": 0.0
-        }
+        "k": 1.67e-3
     },
     "kin5": {
-        "time": 1,
-        "k": 5.04e-4,
-        "error": {
-            "random": 0.03,
-            "systematic": 0.0
-        }
+        "k": 5.04e-4
     },
     "kin6": {
-        "temp": 260,
+        "A": 2.9e13,
+        "Ea": 211000
+    },
+    "equi1": {
         "dH": 88500,
-        "dS": 281,
-        "error": {
-            "random": 0.03,
-            "systematic": 0.0
-        }
+        "dS": 281
     }
 }
